@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>游戏 on 川叶</title>
+    <link>/tags/%E6%B8%B8%E6%88%8F/</link>
+    <description>Recent content in 游戏 on 川叶</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; 川叶 版权所有</copyright>
+    <lastBuildDate>Sat, 30 Aug 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我的电子游戏个人史</title>
+      <link>/2014/my-game-history/</link>
+      <pubDate>Sat, 30 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/my-game-history/</guid>
+      <description>&lt;p&gt;和所有八零后（88年左右）一样，我的童年和电子游戏关系密切。不过就我个人来说，也说不上多密切。但回忆起来，还是可以说一大堆，于是想记下来。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
