@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>电影 on 川叶</title>
-    <link>/tags/%E7%94%B5%E5%BD%B1/</link>
+    <link>https://blog.lishun.me/tags/%E7%94%B5%E5%BD%B1/</link>
     <description>Recent content in 电影 on 川叶</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
@@ -11,15 +11,15 @@
     <copyright>&amp;copy; 川叶 版权所有</copyright>
     <lastBuildDate>Sat, 29 Aug 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/%E7%94%B5%E5%BD%B1/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.lishun.me/tags/%E7%94%B5%E5%BD%B1/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>评刺客聂隐娘：文学提供故事，电影提供幻觉</title>
-      <link>/assassin-the-film/</link>
+      <link>https://blog.lishun.me/assassin-the-film/</link>
       <pubDate>Sat, 29 Aug 2015 00:00:00 +0000</pubDate>
       <author>riverscn@gmail.com (川叶)</author>
-      <guid>/assassin-the-film/</guid>
+      <guid>https://blog.lishun.me/assassin-the-film/</guid>
       <description>&lt;p&gt;把一个故事讲好，毫无疑问是电影导演的基本功。但是，在我看来，决定一个电影好不好却并不在于这个故事本身有多好。换而言之就是，一个平庸的故事，交给优秀的影人去展现，也是能够造就优秀的电影作品。而把一个好故事讲好了的电影，却未必算得上是优秀的电影。这个价值判断涉及到不同的观众对《刺客聂隐娘》的基础立场，隐含了中国观众至少两种不同的对电影的基本认识。&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -27,10 +27,10 @@
     
     <item>
       <title>银翼杀手：当人类梦见电子羊</title>
-      <link>/blade-runner/</link>
+      <link>https://blog.lishun.me/blade-runner/</link>
       <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
       <author>riverscn@gmail.com (川叶)</author>
-      <guid>/blade-runner/</guid>
+      <guid>https://blog.lishun.me/blade-runner/</guid>
       <description>&lt;p&gt;电影《银翼杀手》改编自Philip K. Dick在1968年写的科幻小说 《机器人会梦见电子羊吗》（Do Androids Dream of Electronic Sheep?）。这部电影自问世以来，和机器人、克隆人有关的电影越来越多，人格化的机器人角色、政治化的克隆人角色也成为了科幻电影里常见的元素。无论是之后的《攻壳机动队》、还是《黑客帝国》三部曲，这类“赛博朋克”反乌托邦电影，讲述未来城市高度发达，产生的机器与人的末世之争，都可以追溯到《银翼杀手》的调调。&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>

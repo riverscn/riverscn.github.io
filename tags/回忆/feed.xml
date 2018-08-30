@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>回忆 on 川叶</title>
-    <link>/tags/%E5%9B%9E%E5%BF%86/</link>
+    <link>https://blog.lishun.me/tags/%E5%9B%9E%E5%BF%86/</link>
     <description>Recent content in 回忆 on 川叶</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
@@ -11,15 +11,15 @@
     <copyright>&amp;copy; 川叶 版权所有</copyright>
     <lastBuildDate>Mon, 01 Dec 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/%E5%9B%9E%E5%BF%86/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.lishun.me/tags/%E5%9B%9E%E5%BF%86/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>中国式盗版回忆录</title>
-      <link>/pirate/</link>
+      <link>https://blog.lishun.me/pirate/</link>
       <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
       <author>riverscn@gmail.com (川叶)</author>
-      <guid>/pirate/</guid>
+      <guid>https://blog.lishun.me/pirate/</guid>
       <description>&lt;p&gt;我们真的需要盗版软件吗？&lt;/p&gt;
 
 &lt;h2 id=&#34;盗版-盗版&#34;&gt;盗版，盗版&lt;/h2&gt;

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>互联网 on 川叶</title>
-    <link>/tags/%E4%BA%92%E8%81%94%E7%BD%91/</link>
+    <link>https://blog.lishun.me/tags/%E4%BA%92%E8%81%94%E7%BD%91/</link>
     <description>Recent content in 互联网 on 川叶</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
@@ -11,15 +11,15 @@
     <copyright>&amp;copy; 川叶 版权所有</copyright>
     <lastBuildDate>Sun, 21 Feb 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/%E4%BA%92%E8%81%94%E7%BD%91/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.lishun.me/tags/%E4%BA%92%E8%81%94%E7%BD%91/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>为何严肃的内容容易吃灰？</title>
-      <link>/future-of-content/</link>
+      <link>https://blog.lishun.me/future-of-content/</link>
       <pubDate>Sun, 21 Feb 2016 00:00:00 +0000</pubDate>
       <author>riverscn@gmail.com (川叶)</author>
-      <guid>/future-of-content/</guid>
+      <guid>https://blog.lishun.me/future-of-content/</guid>
       <description>&lt;p&gt;我们生活在一个“后现代性”的时代，其表现之一就是权威的消解程度有史以来最高。权威的消解是多方面的，其中就包括价值层面的权威。在商业领域，一个产品的好与坏，无法从纯学理的角度来评判，人们更注重它的市场表现。而今，我们环境几乎完全被商业塑造，商业的逻辑前所未有地深刻渗入人们的生活。&lt;/p&gt;
 
 &lt;p&gt;最近几年来，唱衰传统媒体乃至记者、严肃写作者的专业能力的声音一直都没有消停过，无外乎是说传统媒体的渠道、生产的内容不再能赚到钱了。看到段子手、网红等网络营销势力的兴起，媒体从业者又不免觉得眼红，说似乎自己的朋友都去做微信公众号了。&lt;/p&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>中国缺乏一种真正的黑客文化吗？</title>
-      <link>/hackers/</link>
+      <link>https://blog.lishun.me/hackers/</link>
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
       <author>riverscn@gmail.com (川叶)</author>
-      <guid>/hackers/</guid>
+      <guid>https://blog.lishun.me/hackers/</guid>
       <description>&lt;p&gt;在中国，官方和媒体的话语体系里的“黑客”一词贬义较为明显，随便一搜关于黑客的新闻，大都是违法犯罪相关。一般民众对“黑客”一词的理解也会相当模糊，生活中也不乏遇到诸如QQ号、网游账号被盗之类的被黑案件，另一方面又对黑客能够破解计算机系统的能力感到神奇乃至佩服。&lt;/p&gt;
 
 &lt;p&gt;方可成在《&lt;a href=&#34;http://mp.weixin.qq.com/s?__biz=MjM5NDEwNjQ0MQ==&amp;amp;mid=403432355&amp;amp;idx=1&amp;amp;sn=230377dd8ec4647c077d7db991ce5d7e&amp;amp;3rd=MzA3MDU4NTYzMw==&amp;amp;scene=6#rd&#34;&gt;中国缺乏一种真正的黑客文化&lt;/a&gt;》一文中表达了对中国黑客文化的反思，与西方（主要是美国）的黑客文化传统具有显著的社会运动性质相比，中国的黑客给人的印象只停留在破坏、发泄和盗窃这方面的犯罪行为上。然而真的是如此吗？&lt;/p&gt;
@@ -42,10 +42,10 @@
     
     <item>
       <title>赛博青铜时代</title>
-      <link>/cyber-bronze-age/</link>
+      <link>https://blog.lishun.me/cyber-bronze-age/</link>
       <pubDate>Tue, 24 Dec 2013 00:00:00 +0000</pubDate>
       <author>riverscn@gmail.com (川叶)</author>
-      <guid>/cyber-bronze-age/</guid>
+      <guid>https://blog.lishun.me/cyber-bronze-age/</guid>
       <description>&lt;p&gt;我们或许处在一个「赛博青铜时代」。
 Cyber bronze age.
 这个词是我自己生造的，不知道是否准确地传达了我想表达的意思。&lt;/p&gt;
