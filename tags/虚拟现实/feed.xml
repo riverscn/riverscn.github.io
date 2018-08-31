@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>游戏 on 川叶</title>
-    <link>https://blog.lishun.me/tags/%E6%B8%B8%E6%88%8F/</link>
-    <description>Recent content in 游戏 on 川叶</description>
+    <title>虚拟现实 on 川叶</title>
+    <link>https://blog.lishun.me/tags/%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E/</link>
+    <description>Recent content in 虚拟现实 on 川叶</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>&amp;copy; 川叶 版权所有</copyright>
     <lastBuildDate>Thu, 08 Sep 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.lishun.me/tags/%E6%B8%B8%E6%88%8F/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.lishun.me/tags/%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       
       <guid>https://blog.lishun.me/ar-vr/</guid>
       <description>本文原发于《上海观察》 一 VR/AR 的本质是沉浸式体验，这决定了它与之前的显示设备的根本不同。而问题也正在于此，这种沉浸式的体验，硬件厂商、软件厂商、</description>
-    </item>
-    
-    <item>
-      <title>我的电子游戏个人史</title>
-      <link>https://blog.lishun.me/my-game-history/</link>
-      <pubDate>Sat, 30 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.lishun.me/my-game-history/</guid>
-      <description>&lt;p&gt;和所有八零后（88年左右）一样，我的童年和电子游戏关系密切。不过就我个人来说，也说不上多密切。但回忆起来，还是可以说一大堆，于是想记下来。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

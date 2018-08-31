@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>人工智能 on 川叶</title>
+    <link>https://blog.lishun.me/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
+    <description>Recent content in 人工智能 on 川叶</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; 川叶 版权所有</copyright>
+    <lastBuildDate>Sun, 28 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.lishun.me/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>臭棋带来的快乐，人工智能也可以有吗？</title>
+      <link>https://blog.lishun.me/ai-go/</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.lishun.me/ai-go/</guid>
+      <description>本文发表于《上海观察》 臭棋带来的快乐 马云近日在机器智能高峰论坛上表示：“下围棋本来多有乐趣，结果机器从来不下臭棋，快乐都没了，有啥意思？” 话</description>
+    </item>
+    
+  </channel>
+</rss>
